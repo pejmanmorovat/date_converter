@@ -24,8 +24,8 @@ A Python-based **Date Converter Program** that converts between **Gregorian, Sol
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/pejmanmorovat/date-converter.git
-   cd date-converter
+   git clone https://github.com/pejmanmorovat/date_converter.git
+   cd date_converter
    ```
 
 2. **Install required dependencies**  
