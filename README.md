@@ -19,7 +19,10 @@ A Python-based **Date Converter Program** that converts between **Gregorian, Sol
 - **Jalali Date (`jdatetime`)** – To handle Persian (Solar Hijri) dates.  
 - **Convertdate (`convertdate`)** – To convert between different calendar systems.  
 - **Colorama** – For colored terminal output.  
-
+## **Requirement 
+```bash
+pkg install openssl
+```
 ## **Installation**  
 
 1. **Clone the repository**  
