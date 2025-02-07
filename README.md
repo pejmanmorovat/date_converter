@@ -39,7 +39,7 @@ cd date_converter
 ```
 Run the script:
 ```bash
-python dateconverter.py
+python convertdate.py
 ```
 ---
 
