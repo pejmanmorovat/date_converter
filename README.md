@@ -30,7 +30,17 @@ You can install these libraries using `pip`:
 ```bash
 pip install jdatetime convertdate colorama
 ```
+## Usage:
 
+Clone the repository:
+```bash
+git clone https://github.com/pejmanmorovat/date_converter.git
+cd date_converter
+```
+Run the script:
+```bash
+python dateconverter.py
+```
 ---
 
 ## How to Use:
