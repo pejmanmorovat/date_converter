@@ -99,3 +99,16 @@ Time: 13:15:32
 ## License:
 
 This project is open-source and licensed under the MIT License.
+
+## Date Converter
+
+A Python-based date converter supporting Gregorian, Solar Hijri (Persian), and Islamic dates.
+
+### Features
+- CLI Version: `date_converter_cli.py`
+- GUI Version: `date_converter_gui.py`
+
+### Requirements
+```bash
+pip install -r requirements.txt
+```
